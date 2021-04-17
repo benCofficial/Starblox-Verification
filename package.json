@@ -1,0 +1,20 @@
+{
+  "name": "Guess-or-Fall-Bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@replit/database": "^2.0.1",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "jsdom": "^16.5.3",
+    "moment": "^2.29.1",
+    "noblox.js": "^4.8.5"
+  }
+}
